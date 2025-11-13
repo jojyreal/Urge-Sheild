@@ -12,15 +12,15 @@ it gives you motivation, protects your progress with a password, and keeps every
 
 # features:
 
-🔐 password protected: first time you open it, it asks you to set a password
+password protected: first time you open it, it asks you to set a password
 
-💪 urge logging: log when you fight the urge instead of giving in
+urge logging: log when you fight the urge instead of giving in
 
-😬 relapse logging: resets your streak and starts a cooldown (default 2 days)
+relapse logging: resets your streak and starts a cooldown (default 2 days)
 
-🌱 motivational quotes: randomized and solid for keeping your head up
+motivational quotes: randomized and solid for keeping your head up
 
-📁 stores data semi-privately: everything goes in %APPDATA%\UrgeShield, not next to the .exe
+stores data semi-privately: everything goes in %APPDATA%\UrgeShield, not next to the .exe
 
 # how to use
 
